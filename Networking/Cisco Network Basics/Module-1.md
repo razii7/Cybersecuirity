@@ -1,4 +1,4 @@
-# Cisco Networking Basics - Module 1: Networking Fundamentals
+# Cisco Networking Basics - Module 1: Communication in a Connected World
 
 ## Date
 
