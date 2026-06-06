@@ -1,1 +1,197 @@
+# Linux for Noobs - Linux Introduction and Basic Commands
+
+## Date
+
+2026-06-06
+
+## Platform
+
+LabEx
+
+## Overview
+
+This lab introduced the history and origins of Linux, along with several essential command-line tools used for navigating and managing a Linux system.
+
+Understanding these commands is fundamental for system administration, networking, and cybersecurity.
+
+---
+
+## Introduction to Linux
+
+### What is Linux?
+
+Linux is an open-source operating system based on the Unix operating system. It is widely used in servers, cloud infrastructure, networking equipment, embedded systems, and cybersecurity environments.
+
+### Why Linux is Important
+
+* Open-source and free to use
+* Highly customizable
+* Secure and stable
+* Widely used in cybersecurity and ethical hacking
+* Powers a large portion of the internet and cloud services
+
+### Origins of Linux
+
+Linux was created by Linus Torvalds in 1991.
+
+The Linux kernel became the foundation for many Linux distributions, including:
+
+* Ubuntu
+* Debian
+* Fedora
+* Kali Linux
+* Arch Linux
+
+---
+
+## Basic Linux Commands
+
+### pwd
+
+**Purpose:** Display the current working directory.
+
+**Example:**
+
+```bash
+pwd
+```
+
+**Use Case:**
+
+Helps identify your current location within the filesystem.
+
+---
+
+### ls
+
+**Purpose:** List files and directories.
+
+**Example:**
+
+```bash
+ls
+```
+
+**Use Case:**
+
+View the contents of the current directory.
+
+---
+
+### cd
+
+**Purpose:** Change directory.
+
+**Example:**
+
+```bash
+cd Documents
+```
+
+**Use Case:**
+
+Navigate between directories.
+
+---
+
+### cp
+
+**Purpose:** Copy files or directories.
+
+**Example:**
+
+```bash
+cp file1.txt backup.txt
+```
+
+**Use Case:**
+
+Create duplicates of files or backups.
+
+---
+
+### rm
+
+**Purpose:** Remove files or directories.
+
+**Example:**
+
+```bash
+rm file.txt
+```
+
+**Use Case:**
+
+Delete unwanted files.
+
+**Important:**
+
+Deleted files cannot usually be recovered easily.
+
+---
+
+### help
+
+**Purpose:** Display information about commands.
+
+**Example:**
+
+```bash
+help cd
+```
+
+**Use Case:**
+
+Learn how shell commands work.
+
+---
+
+### grep
+
+**Purpose:** Search for specific text patterns.
+
+**Example:**
+
+```bash
+grep "error" logfile.txt
+```
+
+**Use Case:**
+
+Find matching text within files.
+
+Commonly used in system administration and cybersecurity investigations.
+
+---
+
+### man
+
+**Purpose:** Display a command's manual page.
+
+**Example:**
+
+```bash
+man ls
+```
+
+**Use Case:**
+
+Access detailed command documentation directly from the terminal.
+
+---
+
+## Key Takeaways
+
+* Linux is a powerful open-source operating system.
+* Command-line skills are essential for Linux administration.
+* The `pwd`, `ls`, and `cd` commands help navigate the filesystem.
+* The `cp` and `rm` commands manage files.
+* The `help` and `man` commands provide documentation.
+* The `grep` command is useful for searching text and analyzing logs.
+
+---
+
+## Personal Reflection
+
+This lab provided my first practical experience with Linux command-line operations. Understanding basic commands is an important foundation for future studies in networking, system administration, and cybersecurity.
 
