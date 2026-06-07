@@ -53,6 +53,7 @@ Fourty Minutes
 ### Reflection
 
 Today I completed the first module of Cisco Networking Basics. I gained a foundational understanding of how networks connect devices and how data moves across networks. This knowledge will serve as the basis for future networking and cybersecurity studies.
+#
 
 
 
@@ -103,3 +104,43 @@ Linux for Noobs
 ### Next Goal
 
 Continue learning Linux fundamentals and become comfortable working entirely from the command line.
+#
+
+## 2026-06-07
+
+### Course
+
+Cisco Networking Basics
+
+### Module Completed
+
+Module 2 - Network Components, Types, and Connections
+
+### Topics Studied
+
+* Clients and Servers
+* Client-Server Communication
+* Peer-to-Peer Networks
+* Peer-to-Peer Applications
+* Multiple Device Roles
+* End Devices
+* Intermediate Devices
+* Network Media
+
+### Key Learnings
+
+* Clients request services and servers provide them.
+* Peer-to-peer networks allow devices to communicate directly.
+* Devices can act as both clients and servers.
+* Network infrastructure consists of hosts, intermediate devices, and media.
+* Data may pass through multiple networks before reaching its destination.
+
+### Practical Understanding
+
+* Traced how an email travels from one device to another across networks.
+* Identified the roles of end devices and intermediate devices in data transmission.
+
+### Next Goal
+
+Continue studying network infrastructure and communication models.
+
