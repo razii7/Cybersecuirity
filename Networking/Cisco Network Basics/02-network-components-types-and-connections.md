@@ -229,3 +229,167 @@ This process shows how end devices, intermediate devices, and network media work
 # Personal Reflection
 
 This module helped me understand the fundamental building blocks of a network. I learned how clients, servers, and peer-to-peer systems operate and how network infrastructure enables communication between devices. Understanding these components provides a foundation for future topics such as IP addressing, routing, switching, and network security.
+
+# Additional Network Connectivity Options
+
+## Internet Service Providers (ISPs)
+
+### What is an ISP?
+
+An Internet Service Provider (ISP) is an organization that provides access to the Internet and related services.
+
+### Common ISP Services
+
+* Internet access
+* Email services
+* Domain registration
+* Web hosting
+* Technical support
+* Network connectivity
+
+### Examples
+
+* Home broadband providers
+* Mobile network operators
+* Enterprise internet providers
+
+ISPs play a critical role in connecting users and organizations to the global Internet.
+
+---
+
+## ISP Connections
+
+Users and organizations connect to the Internet through an ISP using various technologies.
+
+The choice of connection depends on:
+
+* Availability
+* Cost
+* Speed
+* Reliability
+* Geographic location
+
+Once connected, the ISP acts as the gateway between the user's local network and the Internet.
+
+---
+
+## Cable and DSL Connections
+
+### Cable Internet
+
+Cable Internet uses the same infrastructure as cable television services.
+
+#### Advantages
+
+* High-speed connectivity
+* Widely available in urban areas
+* Suitable for streaming and online activities
+
+#### Limitations
+
+* Speeds may decrease during peak usage times due to shared bandwidth.
+
+---
+
+### DSL (Digital Subscriber Line)
+
+DSL uses traditional telephone lines to provide Internet access.
+
+#### Advantages
+
+* Widely available
+* Does not interfere with normal telephone usage
+* Generally reliable
+
+#### Limitations
+
+* Performance decreases with distance from the service provider's equipment.
+* Usually slower than modern cable or fiber connections.
+
+---
+
+## Additional Connectivity Options
+
+### Cellular Networks
+
+Cellular networks provide Internet access through mobile communication technologies.
+
+Examples:
+
+* 3G
+* 4G
+* 5G
+
+#### Advantages
+
+* Mobility
+* Wide coverage
+* Convenient access for smartphones and mobile devices
+
+#### Limitations
+
+* Data limits may apply
+* Signal quality can affect performance
+
+---
+
+### Satellite Internet
+
+Satellite Internet provides connectivity using satellites orbiting the Earth.
+
+#### Advantages
+
+* Available in remote locations
+* Useful where cable, fiber, or DSL are unavailable
+
+#### Limitations
+
+* Higher latency
+* Weather conditions may affect performance
+* Often more expensive than terrestrial connections
+
+---
+
+# Module 2 Summary
+
+This module introduced the major components and connection methods used in modern networks.
+
+## Topics Covered
+
+### Network Types and Roles
+
+* Clients
+* Servers
+* Peer-to-Peer Networks
+* Peer-to-Peer Applications
+* Multiple Device Roles
+
+### Network Components
+
+* End Devices (Hosts)
+* Intermediate Devices
+* Network Media
+
+### Internet Connectivity
+
+* Internet Service Providers (ISPs)
+* ISP Connection Methods
+* Cable Internet
+* DSL
+* Cellular Networks
+* Satellite Internet
+
+## Key Takeaways
+
+* Clients request services, while servers provide them.
+* Peer-to-peer networks allow direct communication between devices.
+* End devices are the source or destination of network communications.
+* Intermediate devices help move data between networks.
+* Network media provides the path for data transmission.
+* ISPs connect users and organizations to the Internet.
+* Multiple connectivity technologies exist, each with unique advantages and limitations.
+
+## Personal Reflection
+
+This module expanded my understanding of how networks are structured and how devices communicate across the Internet. I learned the roles of clients, servers, hosts, and networking devices, as well as the various methods people use to connect to the Internet. These concepts provide a foundation for studying network addressing, routing, switching, and cybersecurity.
+
