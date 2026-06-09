@@ -143,4 +143,26 @@ Module 2 - Network Components, Types, and Connections
 ### Next Goal
 
 Continue studying network infrastructure and communication models.
+#
+
+#2026-09-06
+### Course
+
+Cisco Networking Basics
+
+### Additional Topics Covered
+
+- ISP Services
+- ISP Connection Methods
+- Cable Internet
+- DSL
+- Cellular Connectivity
+- Satellite Connectivity
+
+### New Learnings
+
+- ISPs provide Internet access and related services.
+- Cable and DSL are common wired Internet technologies.
+- Cellular networks enable mobile Internet access.
+- Satellite Internet can provide connectivity in remote areas.
 
