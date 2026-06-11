@@ -145,7 +145,7 @@ Module 2 - Network Components, Types, and Connections
 Continue studying network infrastructure and communication models.
 #
 
-#2026-09-06
+## 2026-09-06
 ### Course
 
 Cisco Networking Basics
