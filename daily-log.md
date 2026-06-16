@@ -166,3 +166,8 @@ Cisco Networking Basics
 - Cellular networks enable mobile Internet access.
 - Satellite Internet can provide connectivity in remote areas.
 
+#
+
+## 2026-10-06
+### Started Project Gelly
+#
